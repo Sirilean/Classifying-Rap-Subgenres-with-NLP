@@ -14,4 +14,4 @@ report_Andreikin.Nikita.pdf details the different steps of the project such as m
 
 video_Andreikin.Nikita.txt contains a link to a youtube video which gives a brief summary of the project and the results. 
 
-**TLDR: Not really, but it was a fun project.** 
+**TLDR: Rap lyrics alone cannot reliably be used to classify the song's rap subgenre, but it was fun to see if it could be possible.** 
