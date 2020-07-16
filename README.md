@@ -9,4 +9,5 @@ This project used three algorithms:
 The dataset was originally taken from Kaggle, and then manually reduced to contain only the data I needed (rap lyrics, etc.). 
 
 report_Andreikin.Nikita.pdf details the different steps of the project such as my approach, my dataset, experiments, results, and conclusion.
+
 video_Andreikin.Nikita.txt contains a link to a youtube video which gives a brief summary of the project and the results. 
